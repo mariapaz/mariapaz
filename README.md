@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Maria Paz Garcia (Paz)
+## Frontend developer | artist <i class="fa-solid fa-palette"></i>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
 
 <!--
 **mariapaz/mariapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
+
 
 
 
