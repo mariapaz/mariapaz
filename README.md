@@ -2,7 +2,7 @@
 ## Frontend developer | artist <i class="fa-solid fa-palette"></i>
 
 - 🐝 I work as a Wordpress developer
-- 🖥 Currently in a intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
+- 🖥 Currently in an intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
 - ⚡ Fun fact: [object Object]
 - 👀 If you fancy [have a look at my paintings](https://mariapazgarcia.com/) 
 - 😄 Pronouns: she / her
