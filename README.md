@@ -1,4 +1,4 @@
-### Hey! Paz here 👋
+# Hey! Paz here 👋
 ## Frontend developer | artist <i class="fa-solid fa-palette"></i>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
 
