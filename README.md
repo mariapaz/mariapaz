@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - Send me a message on Github 
 - Find me on discord: Paz#8596
 
-[![Linkedin Badge](https://img.shields.io/badge/-paz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-paz-gar/)]
+![Linkedin Badge](https://img.shields.io/badge/-mariapazgar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-paz-gar/)
