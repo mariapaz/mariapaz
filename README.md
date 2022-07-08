@@ -1,4 +1,4 @@
-# Hi I'm Paz :seedling:
+# Hi, I'm Paz :seedling:
 ## Frontend developer | artist <i class="fa-solid fa-palette"></i>
 
 - 🐝 I work as a Wordpress developer
