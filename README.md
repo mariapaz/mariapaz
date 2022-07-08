@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 📫 How to reach me:
-- send me a message on Github 
-- find me on discord: Paz#8596
+- Send me a message on Github 
+- Find me on discord: Paz#8596
