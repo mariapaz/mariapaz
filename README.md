@@ -2,6 +2,10 @@
 ## Frontend developer | artist <i class="fa-solid fa-palette"></i>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
 
+- 🔭 I work as a Wordpress developer
+- 👩🏻‍💻 Currently in a insensive full-stack bootcamp with a UK-based coding training school Founders and Coders
+- 😄 Pronouns: she / her
+
 <!--
 **mariapaz/mariapaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
