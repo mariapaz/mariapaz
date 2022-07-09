@@ -1,4 +1,4 @@
-# Hola Mundo! :herb:
+# ¡Hola, mundo! :herb:
 ## Frontend developer | artist
 
 - 🐝 I work as a Wordpress developer
