@@ -5,7 +5,7 @@
 - 🖥 Currently in an intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
 - ⚡ Fun fact: [object Object]
 - 👀 If you fancy [have a look at my paintings](https://mariapazgarcia.com/) 
-- 😄 Pronouns: she / her
+- 😄 Pronouns: She/Her
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mariapaz&show_icons=true)
 
