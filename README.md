@@ -24,7 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## How to reach me:
-- Send me a message on Github 
-- Find me on discord: Paz#8596
-
+[![Gmail Badge](https://img.shields.io/badge/-mariapazgar@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mariapazgar@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-mariapazgar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maria-paz-gar/)](https://www.linkedin.com/in/maria-paz-gar/)
