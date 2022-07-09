@@ -1,5 +1,5 @@
-# Hi, I'm Paz :seedling:
-## Frontend developer | artist <i class="fa-solid fa-palette"></i>
+# Hola Mundo! :herb:
+## Frontend developer | artist
 
 - 🐝 I work as a Wordpress developer
 - 🖥 Currently in an intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📫 How to reach me:
+## How to reach me:
 - Send me a message on Github 
 - Find me on discord: Paz#8596
 
