@@ -1,8 +1,8 @@
 # ¡Hola, mundo! :herb:
 ## Frontend developer | artist
 
-- 🐝 I work as a Wordpress developer
 - 🖥 Currently in an intensive full-stack bootcamp with a UK-based coding training school ***Founders and Coders***
+- 🐝 I work as a Wordpress developer
 - ⚡ Fun fact: [object Object]
 - 👀 If you fancy [have a look at my paintings](https://mariapazgarcia.com/) 
 - 😄 Pronouns: She/Her
